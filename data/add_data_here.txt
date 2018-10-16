@@ -1,0 +1,3 @@
+from: https://github.com/digitalprk/mcr_romanization
+
+add: wordlist.csv
